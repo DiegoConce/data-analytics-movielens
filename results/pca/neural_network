@@ -1,0 +1,5 @@
+Best config: {'hidden_size': 1024, 'batch_size': 128, 'dropout_p': 0.2, 'depth': 3, 'learning_rate': 0.001}
+Best Test loss: 0.0062908105498206785
+R2 score: 0.9721101980109189
+MSE: 0.006290810434882081
+
