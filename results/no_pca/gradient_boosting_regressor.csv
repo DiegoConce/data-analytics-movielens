@@ -1,5 +1,0 @@
-Iteration,N-Estimators,Criterion,MSE
-1,100,friedman_mse,0.008720714850091408
-2,150,friedman_mse,0.007535304995749998
-3,200,friedman_mse,0.006904604069796652
-4,250,friedman_mse,0.006429983547191663
